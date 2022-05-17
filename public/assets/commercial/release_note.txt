@@ -1,0 +1,24 @@
+ersion 1.2.1 Release Notes
+--------------------
+1. Employee Hierarchy List
+2. Education New level added as Others
+3. Employee name column in Shift Roaster
+4. Bangla Information in profile
+5. Increment Amount type in increment view
+6. Increment type library
+7. Individual ID search in Increment
+8. In time and Out time update problem solved
+9. Floor , Line, Shift Dependency removed from Employee Edit
+10. Edit Option added in Medical Incident List
+11. Punctuation added in Job Posting and Interview Notes
+12. Name and Line field added in Shift Roaster
+
+Version 1.2.2 Release Notes
+
+1. Merchandising Module is added with below Features-
+a. Style & Library
+b. BoM & Booking
+c. Capacity & Placement
+d. Orders & PO
+e. Time & Action
+f. Setup
